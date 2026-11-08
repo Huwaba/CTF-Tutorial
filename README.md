@@ -7,7 +7,7 @@
 Go to the repo on GitHub and either clone it or download each file individually:
 
 ```bash
-git clone https://github.com/Huwaba/CTF-Tutorial/tree/main rogueap-detector
+git clone https://github.com/Huwaba/CTF-Tutorial/ rogueap-detector
 cd rogueap-detector
 ```
 
